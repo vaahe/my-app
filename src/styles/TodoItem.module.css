@@ -1,0 +1,10 @@
+li {
+    display: flex !important;
+    justify-content: space-between !important;
+    margin: auto !important;
+}
+
+.taskTitle {
+    text-decoration:line-through !important;
+    color: rgb(71, 70, 70) !important;
+}
